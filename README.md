@@ -2,7 +2,7 @@
 
 <hr>
 
-Tableau Public URL:  https://public.tableau.com/profile/whitney.c.losinski#!/vizhome/Citi_Bike_Study/CitiBikeStudy?publish=yes
+Tableau Public URL: https://public.tableau.com/profile/whitney.c.losinski#!/vizhome/Citi_Bike_Study/BikeSharingStudy
 <hr>
 
 ### Purpose
