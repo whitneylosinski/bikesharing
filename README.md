@@ -26,11 +26,11 @@ The purpose of this project was to use Tableau to analyze Citibike data from NYC
 
 |![Slide3](Visualizations/Slide3.png)|![Slide4](Visualizations/Slide4.png)|
 |:---|:---|
-|Comparing the populations between NYC and Des Moines, we can see that Des Moines has a much smaller population, but a slightly younger customer base with a higher percentage of male population.  This gender and age breakdown in Des Moines will be beneficial for business.|Some of the age data appears to be skewed, possibly from</br> users entering the wrong birth year or using the default birth year when signing up, but we can still see a trend of younger riders being the most common users.  This is great news for a Des Moines bike sharing business with the younger population.|
+|Comparing the populations between NYC and Des Moines, we can see that Des Moines has a much smaller population, but a slightly younger customer base with a higher percentage of male population.  This gender and age breakdown in Des Moines will be beneficial for business.|Some of the age data appears to be skewed, possibly from users entering the wrong birth year or using the default birth year when signing up, but we can still see a trend of younger riders being the most common users.  This is great news for a Des Moines bike sharing business with the younger population.|
 
 |![Slide5](Visualizations/Slide5.png)|![Slide6](Visualizations/Slide6.png)|
 |:---|:---|
-|Looking at peak usage times, it appears that most riders tend</br> to use the bikes to get to and from work throughout the week.  Weekend use tends to be more spread out throughout the day, possibly from tourists, events or other weekend activities.|The peak hours seem to be the same for both male and female users.  This chart once again shows how many more males are using the ride sharing services than females.|
+|Looking at peak usage times, it appears that most riders tend to use the bikes to get to and from work throughout the week.  Weekend use tends to be more spread out throughout the day, possibly from tourists, events or other weekend activities.|The peak hours seem to be the same for both male and female users.  This chart once again shows how many more males are using the ride sharing services than females.|
 
 |![Slide7](Visualizations/Slide7.png)|![Slide8](Visualizations/Slide8.png)|
 |:---|:---|
