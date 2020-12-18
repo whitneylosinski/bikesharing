@@ -41,6 +41,16 @@ The purpose of this project was to use Tableau to analyze Citibike data from NYC
 |Again, the average checkout times for each bike ride tend to be the same for both male and female users.|This slide shows that the overwhelming majority of</br> trips taken throughout the week are by subscribing</br> customers.  Non-subscribers tend to use the bikes</br> more frequently on the weekends.  With less of</br> a draw for tourism in Des Moines than in NYC,</br> this data is encouraging for starting a bike sharing business.  It suggests that most users will be local, loyal customers who live near the city.|
 
 ### Summary
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+As can be seen from the presentation, a bike sharing business in Des Moines, IA is a great investment opportunity based on an analysis of a similar bike sharing program in NYC.  The data shows that most customers using the bikes are subscribers who likely use the bikes as a method of transportation to get to and from work.  With commute times around 19 minutes and an average bike checkout time of 5 minutes (assuming the module instructions to use hours were incorrect), this is a great opportunity to reach a customer base who would like to shorten their commute and avoid traffic.  Des Moines also has a greater opportunity to reach the younger, male customer base who seem to be the most frequent users.  
+
+Two additional visualizations with the given data set that would be helpful for the analysis are:
+  1. Most popular start and stop locations:  This would help identify where customers are going and if the bikes tend to be used in the same areas from use to use.  This would help determine which areas of the city to target when deciding on bike station locations.
+  2. Number of rides per bike: Knowing how many times each bike was used would help determine how many bikes may be needed in Des Moines.  It could also be useful for determining how often repairs would need to be done on the bikes.
+  
+With the data and results provided, I would recommend investing in the DesMoines bike sharing business.
 
 
+
+
+
+***Disclaimer:  This is not a valid business proposal.  This was an assignment to create a business proposal after making these required charts. 
