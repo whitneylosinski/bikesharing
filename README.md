@@ -30,7 +30,7 @@ The purpose of this project was to use Tableau to analyze Citibike data from NYC
 
 |![Slide5](Visualizations/Slide5.png)|![Slide6](Visualizations/Slide6.png)|
 |:---|:---|
-|Looking at peak usage times, it appears that most riders tend to use the bikes to get to and from work throughout the week.  Weekend use tends to be more spread out throughout the day, possibly from tourists, events or other weekend activities.|The peak hours seem to be the same for both male and female users.  This chart once again shows how many more males are using the ride sharing services than females.|
+|Looking at peak usage times, it appears that most</br> riders tend to use the bikes to get to and from work throughout the week.  Weekend use tends to be more spread out throughout the day, possibly from tourists, events or other weekend activities.|The peak hours seem to be the same for both male and female users.  This chart once again shows how many more males are using the ride sharing services than females.|
 
 |![Slide7](Visualizations/Slide7.png)|![Slide8](Visualizations/Slide8.png)|
 |:---|:---|
@@ -38,7 +38,7 @@ The purpose of this project was to use Tableau to analyze Citibike data from NYC
 
 |![Slide9](Visualizations/Slide9.png)|![Slide10](Visualizations/Slide10.png)|
 |:---|:---|
-|Again, the average checkout times for each bike ride tend to be the same for both male and female users.|This slide shows that the overwhelming majority of</br> trips taken throughout the week are by subscribing</br> customers.  Non-subscribers tend to use the bikes more frequently on the weekends.  With less of a draw for tourism in Des Moines than in NYC, this data is encouraging for starting a bike sharing business.  It suggests that most users will be local, loyal customers who live near the city.|
+|Again, the average checkout times for each bike ride tend to be the same for both male and female users.|This slide shows that the overwhelming majority of</br> trips taken throughout the week are by subscribing</br> customers.  Non-subscribers tend to use the bikes</br> more frequently on the weekends.  With less of</br> a draw for tourism in Des Moines than in NYC,</br> this data is encouraging for starting a bike sharing business.  It suggests that most users will be local, loyal customers who live near the city.|
 
 ### Summary
 Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
